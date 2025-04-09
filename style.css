@@ -13,7 +13,7 @@ strong{
 
 main{
     display: flex;
-    padding: 0 300px 0px 200px;
+    padding: 0 300px 0 200px;
 }
 
 p{
@@ -25,4 +25,26 @@ h1{
 }
 header,footer{
     height: 130px;
+}
+.botao1{
+   background-color: #07da00;
+   width: 215px;
+   height: 65px;
+   border-radius: 5px;
+   border-color: #ffffff;
+   margin: 50px 0 0 0;
+}
+.botao2{
+    background-color: #ffffff;
+    width: 215px;
+    height: 65px;
+    border-radius: 5px;
+    border-color: #f50202e8;
+    margin: -200px 0 35px 10px;
+ }
+ 
+ a{
+font-size: 22px;
+color: #000000;
+text-decoration: none;
 }
